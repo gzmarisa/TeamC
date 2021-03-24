@@ -1,7 +1,7 @@
 ## Welcome to Team C's Webpage!!!
 
 
-This is the [Team C](https://gzmarisa.github.io/foss-test) github page for the [Cyverse Foundational Open Science Skills](https://learning.cyverse.org/projects/foss/en/latest/index.html) course, hosted February-April 2021. 
+This is the [Team C](https://gzmarisa.github.io/TeamC) github page for the [Cyverse Foundational Open Science Skills](https://learning.cyverse.org/projects/foss/en/latest/index.html) course, hosted February-April 2021. 
 
 # Team Members
 - Alma Lizette Anides Marales
