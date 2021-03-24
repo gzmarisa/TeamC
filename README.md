@@ -9,7 +9,7 @@ This is the [Team C](https://gzmarisa.github.io/foss-test) github page for the [
 - Chosen Obih
   - Graduate Assistant in Plant Genomics at Godfrey Okoye University
 - Connel Ching'anda
-  - Graduate Assistant in Plant Sciences at University of Arizona
+  - PhD student in Plant Sciences at University of Arizona
 - Javier Osorio
   - Assistant Professor in Goverment and Public Policy at University of Arizona
 - Kelsey Gonzalez
