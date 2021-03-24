@@ -4,7 +4,7 @@
 This is the [Team C](https://gzmarisa.github.io/TeamC) github page for the [Cyverse Foundational Open Science Skills](https://learning.cyverse.org/projects/foss/en/latest/index.html) course, hosted February-April 2021. 
 
 # Team Members
-- Alma Lizette Anides Marales
+- Alma Lizette Anides Morales
   - PhD student in Environmental Science at University of Arizona
 - Chosen Obih
   - Graduate Assistant in Plant Genomics at Godfrey Okoye University
