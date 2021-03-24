@@ -1,4 +1,4 @@
-[https://gzmarisa.github.io/foss-test/](Team C) github pages for the [https://learning.cyverse.org/projects/foss/en/latest/index.html](Cyverse Foundational Open Science Skills) course, hosted February-April 2021. 
+[Team C](https://gzmarisa.github.io/foss-test) github pages for the [Cyverse Foundational Open Science Skills](https://learning.cyverse.org/projects/foss/en/latest/index.html) course, hosted February-April 2021. 
 
 ## Welcome to Team C's Webpage!!!
 
