@@ -21,7 +21,7 @@ This is the [Team C](https://gzmarisa.github.io/TeamC) github page for the [Cyve
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="TeamC/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
