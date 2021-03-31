@@ -12,7 +12,7 @@ This is the [Team C](https://gzmarisa.github.io/TeamC) github page for the [Cyve
   - PhD student in Plant Sciences at University of Arizona
 - Javier Osorio
   - Assistant Professor in Goverment and Public Policy at University of Arizona
-- Kelsey Gonzalez
+- [Kelsey Gonzalez](kelseygonzalez.md)
   - PhD candidate in Sociology  at University of Arizona
 - Marisa Elena Gonzalez
   - PhD student in Chemical Engineering at University of Arizona
