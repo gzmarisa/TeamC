@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to Team C's Webpage!!!
 
 
